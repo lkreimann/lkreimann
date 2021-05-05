@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://media.giphy.com/media/bHVvM76FEXh0Q/giphy.gif)
+
+🌈 _Pink fluffy unicorns dancing on rainbows_ 🌈
 
 <!--
 **lkreimann/lkreimann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

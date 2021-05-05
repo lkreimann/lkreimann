@@ -1,6 +1,8 @@
-![](https://media.giphy.com/media/bHVvM76FEXh0Q/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/bHVvM76FEXh0Q/giphy.gif" align="center">
 
-🌈 _Pink fluffy unicorns dancing on rainbows_ 🌈
+<p  align="center">🌈 <em>Pink fluffy unicorns dancing on rainbows</em> 🌈</p>
+</p>
 
 <!--
 **lkreimann/lkreimann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

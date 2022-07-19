@@ -4,6 +4,8 @@
 <p  align="center">🌈 <em>Pink fluffy unicorns dancing on rainbows</em> 🌈</p>
 </p>
 
+<p  align="center"><img src='https://github-readme-streak-stats.herokuapp.com?user=lkreimann&theme=radical' alt='Chart of contributions by lkreimann (GitHub user)' /></p>
+
 <!--
 **lkreimann/lkreimann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
